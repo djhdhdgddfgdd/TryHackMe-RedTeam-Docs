@@ -1,20 +1,20 @@
-# Introduction to Cyber Security – TryHackMe Notes
+# 🌐 Introduction to Cyber Security – Tracks
 
-## 📝 Overview
-Brief summary of what this module covers.
+## 📂 Module Tracks
 
-## 🎯 Learning Objectives
-- Objective 1
-- Objective 2
-- Objective 3
+### 1️⃣ Offensive Security Intro  
+🎯 *Hack your first website in a safe environment and learn the mindset of ethical hackers.*  
+🔗 [**Open Track**](https://tryhackme.com/room/introtooffensivesecurity)
 
-## 🛠 Tools & Concepts
-- Tool/Concept 1
-- Tool/Concept 2
+---
 
-## 📌 Key Takeaways
-- Takeaway 1
-- Takeaway 2
+### 2️⃣ Defensive Security Intro  
+🛡 *Learn how to detect, stop, and investigate cyber attacks using defensive tools and strategies.*  
+🔗 [**Open Track**](https://tryhackme.com/room/introtodefensivesecurity)
 
-## 🔗 References
-[TryHackMe Room Link](https://tryhackme.com/)
+---
+
+### 3️⃣ Careers in Cyber  
+💼 *Explore different cybersecurity career paths, from Red Team to Threat Intelligence.*  
+🔗 [**Open Track**](https://tryhackme.com/room/careersincyber)
+
