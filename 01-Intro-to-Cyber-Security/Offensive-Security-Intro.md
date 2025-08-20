@@ -31,6 +31,6 @@ This module introduces the attacker mindset, basic reconnaissance, exploitation 
 
 ## 📸 Evidence & Screenshots  
 
-All screenshots for this room are stored in:  
+All screenshots for this room :  
 ![Lab Screenshot](https://github.com/djhdhdgddfgdd/TryHackMe-RedTeam-Docs/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-08-20%20063944.png?raw=true)
 
