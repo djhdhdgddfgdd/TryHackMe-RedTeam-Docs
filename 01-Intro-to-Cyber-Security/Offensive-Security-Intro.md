@@ -24,11 +24,6 @@ This module introduces the attacker mindset, basic reconnaissance, exploitation 
 
 ---
 
-## 🔎 Walkthrough Summary  
-*(Write your step-by-step process here with screenshots)*
-
----
-
 ## 📸 Evidence & Screenshots  
 
 All screenshots for this room :  
