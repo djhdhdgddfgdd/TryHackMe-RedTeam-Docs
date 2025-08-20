@@ -16,7 +16,7 @@ This module introduces the attacker mindset, basic reconnaissance, exploitation 
 ---
 
 ## 🛠️ Key Skills Practiced  
-- Service enumeration with `nmap` and `netcat`.  
+- Service enumeration with `netcat`.  
 - Identifying misconfigurations and weak credentials.  
 - Gaining initial shell access.  
 - Escalating privileges using misconfigured binaries.  
