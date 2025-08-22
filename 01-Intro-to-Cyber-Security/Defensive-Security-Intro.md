@@ -35,3 +35,4 @@ This module introduces the defender’s mindset, log analysis, incident detectio
 
 ## 📸 Evidence & Screenshots
 ![imag alt](https://github.com/djhdhdgddfgdd/TryHackMe-RedTeam-Docs/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-08-20%20081759.png?raw=true)
+![imag alt]()
